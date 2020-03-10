@@ -115,7 +115,7 @@ Firewall protects devices from unauthorized network access. You can use Firewall
 
 - **Stealth Mode**:  
   - **Not configured** (*default*) - This setting leaves stealth mode turned off.
-  - **Enable** - Turn on stealth mode to prevent devices from responding to probing requests, which can be made my malicious users. When enabled, the device continues to answer incoming requests for authorized apps.  
+  - **Enable** - Turn on stealth mode to prevent devices from responding to probing requests, which can be made by malicious users. When enabled, the device continues to answer incoming requests for authorized apps.  
 
 ### Gatekeeper
 
